@@ -1,6 +1,0 @@
-C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\BusinessLayer.Model\bin\Debug\BusinessLayer.Model.dll
-C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\BusinessLayer.Model\bin\Debug\BusinessLayer.Model.pdb
-C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.csproj.AssemblyReference.cache
-C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.csproj.CoreCompileInputs.cache
-C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.dll
-C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.pdb
