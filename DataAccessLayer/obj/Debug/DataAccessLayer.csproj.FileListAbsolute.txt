@@ -1,0 +1,16 @@
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\DataAccessLayer.Model.dll
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\DataAccessLayer.Model.pdb
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\BusinessLayer.Model.dll
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\AutoMapper.dll
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\BusinessLayer.Model.pdb
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hjelodar\Downloads\JonasCodingTest-master\JonasCodingTest-master\DataAccessLayer\bin\Debug\AutoMapper.pdb
